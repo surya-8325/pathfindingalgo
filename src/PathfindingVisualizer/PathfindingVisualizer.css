@@ -1,0 +1,31 @@
+.grid {
+  margin: 10px 125px 0px;
+}
+
+.djikstrabtn {
+  padding: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.clearbtn {
+  padding: 10px;
+}
+
+.heading {
+  color: darkblue;
+  margin-left: 610px;
+  text-align: "center";
+}
+
+.setStart {
+  padding: 10px;
+  margin-right: 10px;
+  margin-left: 450px;
+}
+
+.setEnd {
+  padding: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
